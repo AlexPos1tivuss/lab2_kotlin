@@ -1,6 +1,7 @@
 package com.raywenderlich.android.lab1.screens
 
 import android.annotation.SuppressLint
+import androidx.compose.material.BottomAppBar
 import androidx.compose.material.Scaffold
 import androidx.compose.material.ScaffoldState
 import androidx.compose.material.rememberScaffoldState
@@ -36,10 +37,13 @@ fun MyScaffold() {
 
 @Composable
 fun MyTopAppBar(scaffoldState: ScaffoldState, scope: CoroutineScope) {
-
+    
 }
 
 @Composable
 fun MyBottomAppBar() {
-
+    BottomAppBar (
+        content = {},
+        backgroundColor = colorResource(id = R.color.colorPrimary)
+    )
 }
