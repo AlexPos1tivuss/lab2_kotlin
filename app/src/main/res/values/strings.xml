@@ -16,5 +16,10 @@
     <string name="second">второй</string>
     <string name="third">третий</string>
     <string name="row_button_nav">Row</string>
+    <string name="column_button_nav">Column</string>
+    <string name="box_button_nav">Box</string>
+    <string name="surface_button_nav">Surface</string>
+    <string name="scaffold_button_nav">Scaffold</string>
+
 
 </resources>
