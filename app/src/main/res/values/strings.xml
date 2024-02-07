@@ -20,6 +20,8 @@
     <string name="box_button_nav">Box</string>
     <string name="surface_button_nav">Surface</string>
     <string name="scaffold_button_nav">Scaffold</string>
+    <string name="menu">Меню</string>
+    <string name="compApp">MyComposeApp</string>
 
 
 </resources>
